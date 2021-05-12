@@ -1,3 +1,7 @@
 Autor: Carl Blackout
 Nazov: Atom (-ova bomba)
 Datum: 03.05.2021
+----
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows
+with support for plug-ins written in JavaScript, and embedded Git Control, developed by GitHub.
+Atom is a desktop application built using web technologies.
