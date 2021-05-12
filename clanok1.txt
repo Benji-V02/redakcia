@@ -9,7 +9,3 @@ Atoms are extremely small, typically around 100 picometers across.
 Most of the extending packages have free software licenses and are community-built and maintained.
 Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications using Chromium and Node.js.
 Atom is written in CoffeeScript and Less, but much of it has been converted to JavaScript.
-----
-Mily citatelia 
-na toto 
-sme bohuzial nemali cas.
