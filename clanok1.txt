@@ -1,3 +1,7 @@
 Autor: Carl Blackout
 Nazov: Atómy základ všetkého...
 Datum: 03.05.2021
+----
+An atom is the smallest unit of ordinary matter that forms a chemical element.
+Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms.
+Atoms are extremely small, typically around 100 picometers across.
